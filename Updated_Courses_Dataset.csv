@@ -1,0 +1,376 @@
+Course_ID,Course_Name,Domain,Provider,Difficulty,Course_Duration
+C001,Machine Learning - AI/ML,AI/ML,LinkedIn Learning,3,47
+C002,Machine Learning - AI/ML,AI/ML,Udemy,1,56
+C003,Machine Learning - AI/ML,AI/ML,LinkedIn Learning,4,21
+C004,Machine Learning - AI/ML,AI/ML,Coursera,4,25
+C005,Machine Learning - AI/ML,AI/ML,edX,3,16
+C006,Deep Learning - AI/ML,AI/ML,edX,2,46
+C007,Deep Learning - AI/ML,AI/ML,Coursera,1,60
+C008,Deep Learning - AI/ML,AI/ML,Pluralsight,5,30
+C009,Deep Learning - AI/ML,AI/ML,Pluralsight,3,21
+C010,Deep Learning - AI/ML,AI/ML,Pluralsight,1,49
+C011,Reinforcement Learning - AI/ML,AI/ML,LinkedIn Learning,1,29
+C012,Reinforcement Learning - AI/ML,AI/ML,Coursera,2,10
+C013,Reinforcement Learning - AI/ML,AI/ML,Udemy,4,40
+C014,Reinforcement Learning - AI/ML,AI/ML,Pluralsight,3,57
+C015,Reinforcement Learning - AI/ML,AI/ML,Udemy,2,23
+C016,Natural Language Processing - AI/ML,AI/ML,Udemy,1,33
+C017,Natural Language Processing - AI/ML,AI/ML,edX,3,46
+C018,Natural Language Processing - AI/ML,AI/ML,Udemy,3,30
+C019,Natural Language Processing - AI/ML,AI/ML,edX,5,40
+C020,Natural Language Processing - AI/ML,AI/ML,LinkedIn Learning,4,48
+C021,Computer Vision - AI/ML,AI/ML,Udemy,3,52
+C022,Computer Vision - AI/ML,AI/ML,LinkedIn Learning,1,34
+C023,Computer Vision - AI/ML,AI/ML,Coursera,3,48
+C024,Computer Vision - AI/ML,AI/ML,edX,5,18
+C025,Computer Vision - AI/ML,AI/ML,LinkedIn Learning,5,39
+C026,Data Analysis - Data Science,Data Science,edX,5,45
+C027,Data Analysis - Data Science,Data Science,Pluralsight,2,53
+C028,Data Analysis - Data Science,Data Science,Pluralsight,3,38
+C029,Data Analysis - Data Science,Data Science,Pluralsight,2,25
+C030,Data Analysis - Data Science,Data Science,LinkedIn Learning,5,60
+C031,Data Visualization - Data Science,Data Science,LinkedIn Learning,4,17
+C032,Data Visualization - Data Science,Data Science,LinkedIn Learning,3,31
+C033,Data Visualization - Data Science,Data Science,edX,1,16
+C034,Data Visualization - Data Science,Data Science,LinkedIn Learning,5,22
+C035,Data Visualization - Data Science,Data Science,edX,5,11
+C036,Big Data Analytics - Data Science,Data Science,edX,4,55
+C037,Big Data Analytics - Data Science,Data Science,Coursera,2,20
+C038,Big Data Analytics - Data Science,Data Science,Udemy,1,49
+C039,Big Data Analytics - Data Science,Data Science,LinkedIn Learning,4,55
+C040,Big Data Analytics - Data Science,Data Science,Coursera,2,19
+C041,Statistics for Data Science - Data Science,Data Science,Pluralsight,2,49
+C042,Statistics for Data Science - Data Science,Data Science,LinkedIn Learning,1,33
+C043,Statistics for Data Science - Data Science,Data Science,Udemy,3,46
+C044,Statistics for Data Science - Data Science,Data Science,edX,5,56
+C045,Statistics for Data Science - Data Science,Data Science,Pluralsight,4,55
+C046,Data Engineering - Data Science,Data Science,Pluralsight,2,33
+C047,Data Engineering - Data Science,Data Science,Pluralsight,2,59
+C048,Data Engineering - Data Science,Data Science,Pluralsight,1,22
+C049,Data Engineering - Data Science,Data Science,edX,3,18
+C050,Data Engineering - Data Science,Data Science,Pluralsight,4,24
+C051,Software Testing - Software Engineering,Software Engineering,Coursera,2,27
+C052,Software Testing - Software Engineering,Software Engineering,Coursera,5,54
+C053,Software Testing - Software Engineering,Software Engineering,Pluralsight,5,40
+C054,Software Testing - Software Engineering,Software Engineering,edX,3,44
+C055,Software Testing - Software Engineering,Software Engineering,Pluralsight,4,31
+C056,Agile Development - Software Engineering,Software Engineering,Coursera,5,19
+C057,Agile Development - Software Engineering,Software Engineering,Coursera,4,12
+C058,Agile Development - Software Engineering,Software Engineering,Pluralsight,4,22
+C059,Agile Development - Software Engineering,Software Engineering,Coursera,3,45
+C060,Agile Development - Software Engineering,Software Engineering,LinkedIn Learning,1,60
+C061,Design Patterns - Software Engineering,Software Engineering,LinkedIn Learning,2,31
+C062,Design Patterns - Software Engineering,Software Engineering,edX,3,40
+C063,Design Patterns - Software Engineering,Software Engineering,Coursera,4,41
+C064,Design Patterns - Software Engineering,Software Engineering,Pluralsight,4,30
+C065,Design Patterns - Software Engineering,Software Engineering,edX,5,22
+C066,Object-Oriented Design - Software Engineering,Software Engineering,LinkedIn Learning,5,18
+C067,Object-Oriented Design - Software Engineering,Software Engineering,Udemy,4,59
+C068,Object-Oriented Design - Software Engineering,Software Engineering,Pluralsight,1,20
+C069,Object-Oriented Design - Software Engineering,Software Engineering,edX,5,37
+C070,Object-Oriented Design - Software Engineering,Software Engineering,Coursera,5,60
+C071,Version Control - Software Engineering,Software Engineering,LinkedIn Learning,1,31
+C072,Version Control - Software Engineering,Software Engineering,Coursera,5,12
+C073,Version Control - Software Engineering,Software Engineering,edX,3,17
+C074,Version Control - Software Engineering,Software Engineering,edX,2,35
+C075,Version Control - Software Engineering,Software Engineering,Pluralsight,5,50
+C076,Penetration Testing - Cybersecurity,Cybersecurity,LinkedIn Learning,4,59
+C077,Penetration Testing - Cybersecurity,Cybersecurity,Udemy,3,46
+C078,Penetration Testing - Cybersecurity,Cybersecurity,LinkedIn Learning,4,50
+C079,Penetration Testing - Cybersecurity,Cybersecurity,Pluralsight,2,24
+C080,Penetration Testing - Cybersecurity,Cybersecurity,Udemy,4,60
+C081,Cryptography - Cybersecurity,Cybersecurity,Udemy,4,19
+C082,Cryptography - Cybersecurity,Cybersecurity,Coursera,1,35
+C083,Cryptography - Cybersecurity,Cybersecurity,Udemy,4,52
+C084,Cryptography - Cybersecurity,Cybersecurity,edX,1,38
+C085,Cryptography - Cybersecurity,Cybersecurity,Pluralsight,2,23
+C086,Network Security - Cybersecurity,Cybersecurity,Pluralsight,1,59
+C087,Network Security - Cybersecurity,Cybersecurity,Udemy,1,13
+C088,Network Security - Cybersecurity,Cybersecurity,Pluralsight,1,32
+C089,Network Security - Cybersecurity,Cybersecurity,edX,2,42
+C090,Network Security - Cybersecurity,Cybersecurity,LinkedIn Learning,5,38
+C091,Incident Response - Cybersecurity,Cybersecurity,Udemy,2,42
+C092,Incident Response - Cybersecurity,Cybersecurity,Coursera,4,32
+C093,Incident Response - Cybersecurity,Cybersecurity,Coursera,1,12
+C094,Incident Response - Cybersecurity,Cybersecurity,Pluralsight,2,22
+C095,Incident Response - Cybersecurity,Cybersecurity,Udemy,3,29
+C096,Ethical Hacking - Cybersecurity,Cybersecurity,Udemy,4,27
+C097,Ethical Hacking - Cybersecurity,Cybersecurity,Coursera,5,11
+C098,Ethical Hacking - Cybersecurity,Cybersecurity,LinkedIn Learning,3,41
+C099,Ethical Hacking - Cybersecurity,Cybersecurity,LinkedIn Learning,3,39
+C100,Ethical Hacking - Cybersecurity,Cybersecurity,edX,1,52
+C101,AWS Fundamentals - Cloud Computing,Cloud Computing,Udemy,5,44
+C102,AWS Fundamentals - Cloud Computing,Cloud Computing,Coursera,3,19
+C103,AWS Fundamentals - Cloud Computing,Cloud Computing,LinkedIn Learning,5,29
+C104,AWS Fundamentals - Cloud Computing,Cloud Computing,Coursera,2,13
+C105,AWS Fundamentals - Cloud Computing,Cloud Computing,LinkedIn Learning,1,44
+C106,Azure Cloud Services - Cloud Computing,Cloud Computing,Udemy,2,32
+C107,Azure Cloud Services - Cloud Computing,Cloud Computing,Coursera,3,38
+C108,Azure Cloud Services - Cloud Computing,Cloud Computing,LinkedIn Learning,2,19
+C109,Azure Cloud Services - Cloud Computing,Cloud Computing,edX,3,54
+C110,Azure Cloud Services - Cloud Computing,Cloud Computing,edX,2,39
+C111,Cloud Architecture - Cloud Computing,Cloud Computing,edX,2,23
+C112,Cloud Architecture - Cloud Computing,Cloud Computing,Coursera,2,22
+C113,Cloud Architecture - Cloud Computing,Cloud Computing,Coursera,4,52
+C114,Cloud Architecture - Cloud Computing,Cloud Computing,LinkedIn Learning,2,55
+C115,Cloud Architecture - Cloud Computing,Cloud Computing,Coursera,1,49
+C116,Serverless Computing - Cloud Computing,Cloud Computing,Coursera,4,22
+C117,Serverless Computing - Cloud Computing,Cloud Computing,Pluralsight,2,25
+C118,Serverless Computing - Cloud Computing,Cloud Computing,LinkedIn Learning,4,48
+C119,Serverless Computing - Cloud Computing,Cloud Computing,Pluralsight,4,59
+C120,Serverless Computing - Cloud Computing,Cloud Computing,Coursera,4,15
+C121,Cloud Security - Cloud Computing,Cloud Computing,Udemy,4,52
+C122,Cloud Security - Cloud Computing,Cloud Computing,Coursera,4,45
+C123,Cloud Security - Cloud Computing,Cloud Computing,Pluralsight,5,24
+C124,Cloud Security - Cloud Computing,Cloud Computing,edX,2,52
+C125,Cloud Security - Cloud Computing,Cloud Computing,Pluralsight,3,58
+C126,Frontend Development - Web Development,Web Development,Pluralsight,4,35
+C127,Frontend Development - Web Development,Web Development,edX,4,56
+C128,Frontend Development - Web Development,Web Development,Udemy,1,47
+C129,Frontend Development - Web Development,Web Development,Coursera,3,60
+C130,Frontend Development - Web Development,Web Development,Pluralsight,2,49
+C131,Backend Development - Web Development,Web Development,Pluralsight,4,29
+C132,Backend Development - Web Development,Web Development,Pluralsight,2,50
+C133,Backend Development - Web Development,Web Development,Coursera,2,42
+C134,Backend Development - Web Development,Web Development,Coursera,2,60
+C135,Backend Development - Web Development,Web Development,LinkedIn Learning,3,29
+C136,Full-Stack Development - Web Development,Web Development,LinkedIn Learning,3,56
+C137,Full-Stack Development - Web Development,Web Development,Pluralsight,2,19
+C138,Full-Stack Development - Web Development,Web Development,Udemy,1,42
+C139,Full-Stack Development - Web Development,Web Development,edX,5,54
+C140,Full-Stack Development - Web Development,Web Development,edX,1,22
+C141,Web Performance Optimization - Web Development,Web Development,edX,1,15
+C142,Web Performance Optimization - Web Development,Web Development,LinkedIn Learning,3,55
+C143,Web Performance Optimization - Web Development,Web Development,edX,5,47
+C144,Web Performance Optimization - Web Development,Web Development,Pluralsight,2,25
+C145,Web Performance Optimization - Web Development,Web Development,Coursera,2,20
+C146,ReactJS Development - Web Development,Web Development,Pluralsight,1,11
+C147,ReactJS Development - Web Development,Web Development,LinkedIn Learning,1,51
+C148,ReactJS Development - Web Development,Web Development,LinkedIn Learning,2,29
+C149,ReactJS Development - Web Development,Web Development,Udemy,4,30
+C150,ReactJS Development - Web Development,Web Development,Udemy,2,53
+C151,Android Development - Mobile App Development,Mobile App Development,Coursera,4,14
+C152,Android Development - Mobile App Development,Mobile App Development,edX,2,25
+C153,Android Development - Mobile App Development,Mobile App Development,Udemy,3,51
+C154,Android Development - Mobile App Development,Mobile App Development,Coursera,5,18
+C155,Android Development - Mobile App Development,Mobile App Development,Pluralsight,5,43
+C156,iOS Development - Mobile App Development,Mobile App Development,edX,2,52
+C157,iOS Development - Mobile App Development,Mobile App Development,Udemy,3,39
+C158,iOS Development - Mobile App Development,Mobile App Development,edX,1,38
+C159,iOS Development - Mobile App Development,Mobile App Development,edX,3,38
+C160,iOS Development - Mobile App Development,Mobile App Development,Coursera,3,21
+C161,Cross-Platform Development - Mobile App Development,Mobile App Development,Pluralsight,5,34
+C162,Cross-Platform Development - Mobile App Development,Mobile App Development,Pluralsight,1,21
+C163,Cross-Platform Development - Mobile App Development,Mobile App Development,Udemy,2,56
+C164,Cross-Platform Development - Mobile App Development,Mobile App Development,Udemy,3,33
+C165,Cross-Platform Development - Mobile App Development,Mobile App Development,Pluralsight,5,48
+C166,Flutter Development - Mobile App Development,Mobile App Development,edX,4,37
+C167,Flutter Development - Mobile App Development,Mobile App Development,Pluralsight,1,59
+C168,Flutter Development - Mobile App Development,Mobile App Development,Coursera,1,47
+C169,Flutter Development - Mobile App Development,Mobile App Development,LinkedIn Learning,3,38
+C170,Flutter Development - Mobile App Development,Mobile App Development,Pluralsight,1,12
+C171,Swift Programming - Mobile App Development,Mobile App Development,Pluralsight,2,29
+C172,Swift Programming - Mobile App Development,Mobile App Development,Udemy,2,59
+C173,Swift Programming - Mobile App Development,Mobile App Development,LinkedIn Learning,2,51
+C174,Swift Programming - Mobile App Development,Mobile App Development,Udemy,4,57
+C175,Swift Programming - Mobile App Development,Mobile App Development,LinkedIn Learning,3,50
+C176,Blockchain Basics - Blockchain,Blockchain,edX,5,47
+C177,Blockchain Basics - Blockchain,Blockchain,Pluralsight,5,33
+C178,Blockchain Basics - Blockchain,Blockchain,LinkedIn Learning,3,56
+C179,Blockchain Basics - Blockchain,Blockchain,Pluralsight,1,58
+C180,Blockchain Basics - Blockchain,Blockchain,Pluralsight,4,11
+C181,Ethereum Smart Contracts - Blockchain,Blockchain,Udemy,2,43
+C182,Ethereum Smart Contracts - Blockchain,Blockchain,edX,4,43
+C183,Ethereum Smart Contracts - Blockchain,Blockchain,LinkedIn Learning,1,58
+C184,Ethereum Smart Contracts - Blockchain,Blockchain,edX,4,44
+C185,Ethereum Smart Contracts - Blockchain,Blockchain,Pluralsight,3,35
+C186,Hyperledger Fabric - Blockchain,Blockchain,Udemy,3,17
+C187,Hyperledger Fabric - Blockchain,Blockchain,edX,4,42
+C188,Hyperledger Fabric - Blockchain,Blockchain,LinkedIn Learning,5,39
+C189,Hyperledger Fabric - Blockchain,Blockchain,LinkedIn Learning,2,38
+C190,Hyperledger Fabric - Blockchain,Blockchain,Udemy,1,53
+C191,Decentralized Applications - Blockchain,Blockchain,Pluralsight,2,39
+C192,Decentralized Applications - Blockchain,Blockchain,edX,3,39
+C193,Decentralized Applications - Blockchain,Blockchain,LinkedIn Learning,3,53
+C194,Decentralized Applications - Blockchain,Blockchain,Udemy,1,52
+C195,Decentralized Applications - Blockchain,Blockchain,Pluralsight,4,49
+C196,Bitcoin Protocol - Blockchain,Blockchain,Pluralsight,3,10
+C197,Bitcoin Protocol - Blockchain,Blockchain,Udemy,2,44
+C198,Bitcoin Protocol - Blockchain,Blockchain,edX,4,45
+C199,Bitcoin Protocol - Blockchain,Blockchain,LinkedIn Learning,4,24
+C200,Bitcoin Protocol - Blockchain,Blockchain,Udemy,4,27
+C201,Networking Essentials - Networking,Networking,Coursera,3,41
+C202,Networking Essentials - Networking,Networking,Coursera,5,60
+C203,Networking Essentials - Networking,Networking,Coursera,5,51
+C204,Networking Essentials - Networking,Networking,LinkedIn Learning,3,38
+C205,Networking Essentials - Networking,Networking,edX,5,42
+C206,CCNA Preparation - Networking,Networking,Udemy,2,48
+C207,CCNA Preparation - Networking,Networking,Pluralsight,1,42
+C208,CCNA Preparation - Networking,Networking,edX,4,30
+C209,CCNA Preparation - Networking,Networking,Udemy,2,11
+C210,CCNA Preparation - Networking,Networking,Coursera,1,35
+C211,Network Troubleshooting - Networking,Networking,Udemy,3,28
+C212,Network Troubleshooting - Networking,Networking,Pluralsight,2,51
+C213,Network Troubleshooting - Networking,Networking,edX,5,49
+C214,Network Troubleshooting - Networking,Networking,Coursera,3,39
+C215,Network Troubleshooting - Networking,Networking,Udemy,5,25
+C216,Wireless Networks - Networking,Networking,Coursera,3,21
+C217,Wireless Networks - Networking,Networking,Udemy,1,13
+C218,Wireless Networks - Networking,Networking,Coursera,1,39
+C219,Wireless Networks - Networking,Networking,edX,5,58
+C220,Wireless Networks - Networking,Networking,Udemy,2,40
+C221,IoT Networking - Networking,Networking,Pluralsight,2,49
+C222,IoT Networking - Networking,Networking,LinkedIn Learning,5,37
+C223,IoT Networking - Networking,Networking,Udemy,2,47
+C224,IoT Networking - Networking,Networking,edX,5,48
+C225,IoT Networking - Networking,Networking,LinkedIn Learning,3,43
+C226,Python Programming - Programming Languages,Programming Languages,Udemy,1,53
+C227,Python Programming - Programming Languages,Programming Languages,LinkedIn Learning,2,58
+C228,Python Programming - Programming Languages,Programming Languages,LinkedIn Learning,5,54
+C229,Python Programming - Programming Languages,Programming Languages,Pluralsight,4,60
+C230,Python Programming - Programming Languages,Programming Languages,LinkedIn Learning,4,30
+C231,Java Programming - Programming Languages,Programming Languages,Coursera,4,10
+C232,Java Programming - Programming Languages,Programming Languages,Udemy,3,54
+C233,Java Programming - Programming Languages,Programming Languages,edX,2,19
+C234,Java Programming - Programming Languages,Programming Languages,Coursera,2,21
+C235,Java Programming - Programming Languages,Programming Languages,Coursera,1,13
+C236,C++ Programming - Programming Languages,Programming Languages,LinkedIn Learning,4,59
+C237,C++ Programming - Programming Languages,Programming Languages,Udemy,5,24
+C238,C++ Programming - Programming Languages,Programming Languages,LinkedIn Learning,4,11
+C239,C++ Programming - Programming Languages,Programming Languages,Udemy,5,13
+C240,C++ Programming - Programming Languages,Programming Languages,Udemy,5,31
+C241,Rust Programming - Programming Languages,Programming Languages,LinkedIn Learning,1,25
+C242,Rust Programming - Programming Languages,Programming Languages,LinkedIn Learning,2,56
+C243,Rust Programming - Programming Languages,Programming Languages,edX,1,54
+C244,Rust Programming - Programming Languages,Programming Languages,Udemy,3,29
+C245,Rust Programming - Programming Languages,Programming Languages,LinkedIn Learning,3,53
+C246,Go Programming - Programming Languages,Programming Languages,Coursera,4,16
+C247,Go Programming - Programming Languages,Programming Languages,LinkedIn Learning,2,35
+C248,Go Programming - Programming Languages,Programming Languages,Coursera,4,34
+C249,Go Programming - Programming Languages,Programming Languages,Coursera,3,60
+C250,Go Programming - Programming Languages,Programming Languages,Pluralsight,2,14
+C251,CI/CD Pipelines - DevOps,DevOps,Udemy,3,31
+C252,CI/CD Pipelines - DevOps,DevOps,LinkedIn Learning,1,37
+C253,CI/CD Pipelines - DevOps,DevOps,Coursera,2,24
+C254,CI/CD Pipelines - DevOps,DevOps,LinkedIn Learning,1,35
+C255,CI/CD Pipelines - DevOps,DevOps,Pluralsight,1,59
+C256,Docker Fundamentals - DevOps,DevOps,Coursera,1,43
+C257,Docker Fundamentals - DevOps,DevOps,Coursera,2,47
+C258,Docker Fundamentals - DevOps,DevOps,Udemy,2,25
+C259,Docker Fundamentals - DevOps,DevOps,LinkedIn Learning,5,17
+C260,Docker Fundamentals - DevOps,DevOps,Pluralsight,1,52
+C261,Kubernetes Basics - DevOps,DevOps,edX,5,14
+C262,Kubernetes Basics - DevOps,DevOps,Coursera,1,58
+C263,Kubernetes Basics - DevOps,DevOps,edX,2,48
+C264,Kubernetes Basics - DevOps,DevOps,Udemy,2,55
+C265,Kubernetes Basics - DevOps,DevOps,Udemy,2,36
+C266,Infrastructure as Code - DevOps,DevOps,Coursera,2,30
+C267,Infrastructure as Code - DevOps,DevOps,edX,4,23
+C268,Infrastructure as Code - DevOps,DevOps,Pluralsight,3,49
+C269,Infrastructure as Code - DevOps,DevOps,edX,2,46
+C270,Infrastructure as Code - DevOps,DevOps,Udemy,1,60
+C271,Monitoring and Logging - DevOps,DevOps,LinkedIn Learning,3,40
+C272,Monitoring and Logging - DevOps,DevOps,LinkedIn Learning,3,33
+C273,Monitoring and Logging - DevOps,DevOps,Udemy,2,55
+C274,Monitoring and Logging - DevOps,DevOps,Coursera,1,56
+C275,Monitoring and Logging - DevOps,DevOps,LinkedIn Learning,4,51
+C276,Unity Development - Game Development,Game Development,LinkedIn Learning,3,34
+C277,Unity Development - Game Development,Game Development,Udemy,5,47
+C278,Unity Development - Game Development,Game Development,LinkedIn Learning,5,22
+C279,Unity Development - Game Development,Game Development,Coursera,1,39
+C280,Unity Development - Game Development,Game Development,edX,1,48
+C281,Unreal Engine Basics - Game Development,Game Development,Udemy,4,44
+C282,Unreal Engine Basics - Game Development,Game Development,Coursera,4,56
+C283,Unreal Engine Basics - Game Development,Game Development,Udemy,5,33
+C284,Unreal Engine Basics - Game Development,Game Development,Coursera,1,53
+C285,Unreal Engine Basics - Game Development,Game Development,Coursera,4,23
+C286,Game Physics - Game Development,Game Development,Coursera,1,36
+C287,Game Physics - Game Development,Game Development,Pluralsight,1,38
+C288,Game Physics - Game Development,Game Development,Coursera,1,39
+C289,Game Physics - Game Development,Game Development,Udemy,2,31
+C290,Game Physics - Game Development,Game Development,Pluralsight,2,27
+C291,3D Game Design - Game Development,Game Development,Udemy,2,30
+C292,3D Game Design - Game Development,Game Development,LinkedIn Learning,5,19
+C293,3D Game Design - Game Development,Game Development,edX,4,57
+C294,3D Game Design - Game Development,Game Development,Coursera,1,22
+C295,3D Game Design - Game Development,Game Development,Udemy,3,24
+C296,Mobile Game Development - Game Development,Game Development,Coursera,3,57
+C297,Mobile Game Development - Game Development,Game Development,Coursera,5,26
+C298,Mobile Game Development - Game Development,Game Development,edX,5,39
+C299,Mobile Game Development - Game Development,Game Development,Coursera,2,47
+C300,Mobile Game Development - Game Development,Game Development,Coursera,4,25
+C301,SQL Fundamentals - Database Systems,Database Systems,LinkedIn Learning,2,36
+C302,SQL Fundamentals - Database Systems,Database Systems,edX,1,43
+C303,SQL Fundamentals - Database Systems,Database Systems,Udemy,4,18
+C304,SQL Fundamentals - Database Systems,Database Systems,Udemy,2,49
+C305,SQL Fundamentals - Database Systems,Database Systems,Coursera,5,51
+C306,NoSQL Databases - Database Systems,Database Systems,Pluralsight,3,26
+C307,NoSQL Databases - Database Systems,Database Systems,Coursera,3,56
+C308,NoSQL Databases - Database Systems,Database Systems,Pluralsight,2,24
+C309,NoSQL Databases - Database Systems,Database Systems,LinkedIn Learning,4,26
+C310,NoSQL Databases - Database Systems,Database Systems,Udemy,3,37
+C311,Database Optimization - Database Systems,Database Systems,edX,4,29
+C312,Database Optimization - Database Systems,Database Systems,Udemy,3,59
+C313,Database Optimization - Database Systems,Database Systems,LinkedIn Learning,5,24
+C314,Database Optimization - Database Systems,Database Systems,Udemy,5,57
+C315,Database Optimization - Database Systems,Database Systems,Udemy,1,49
+C316,Data Warehousing - Database Systems,Database Systems,LinkedIn Learning,5,52
+C317,Data Warehousing - Database Systems,Database Systems,Udemy,5,10
+C318,Data Warehousing - Database Systems,Database Systems,Pluralsight,5,17
+C319,Data Warehousing - Database Systems,Database Systems,edX,3,33
+C320,Data Warehousing - Database Systems,Database Systems,Coursera,2,16
+C321,MongoDB Essentials - Database Systems,Database Systems,edX,2,51
+C322,MongoDB Essentials - Database Systems,Database Systems,edX,4,55
+C323,MongoDB Essentials - Database Systems,Database Systems,LinkedIn Learning,2,36
+C324,MongoDB Essentials - Database Systems,Database Systems,Coursera,5,41
+C325,MongoDB Essentials - Database Systems,Database Systems,edX,5,39
+C326,Image Processing - Computer Vision,Computer Vision,Pluralsight,5,13
+C327,Image Processing - Computer Vision,Computer Vision,LinkedIn Learning,5,39
+C328,Image Processing - Computer Vision,Computer Vision,edX,5,58
+C329,Image Processing - Computer Vision,Computer Vision,Pluralsight,4,54
+C330,Image Processing - Computer Vision,Computer Vision,Coursera,3,57
+C331,Object Detection - Computer Vision,Computer Vision,edX,2,29
+C332,Object Detection - Computer Vision,Computer Vision,edX,3,46
+C333,Object Detection - Computer Vision,Computer Vision,LinkedIn Learning,5,55
+C334,Object Detection - Computer Vision,Computer Vision,Pluralsight,1,53
+C335,Object Detection - Computer Vision,Computer Vision,Coursera,2,28
+C336,Facial Recognition - Computer Vision,Computer Vision,Pluralsight,4,41
+C337,Facial Recognition - Computer Vision,Computer Vision,Pluralsight,5,11
+C338,Facial Recognition - Computer Vision,Computer Vision,Pluralsight,5,23
+C339,Facial Recognition - Computer Vision,Computer Vision,Coursera,4,44
+C340,Facial Recognition - Computer Vision,Computer Vision,Pluralsight,3,27
+C341,Image Segmentation - Computer Vision,Computer Vision,Pluralsight,1,17
+C342,Image Segmentation - Computer Vision,Computer Vision,LinkedIn Learning,3,16
+C343,Image Segmentation - Computer Vision,Computer Vision,Pluralsight,3,36
+C344,Image Segmentation - Computer Vision,Computer Vision,Udemy,2,44
+C345,Image Segmentation - Computer Vision,Computer Vision,edX,2,59
+C346,Video Analytics - Computer Vision,Computer Vision,Pluralsight,3,52
+C347,Video Analytics - Computer Vision,Computer Vision,Pluralsight,2,36
+C348,Video Analytics - Computer Vision,Computer Vision,Coursera,5,53
+C349,Video Analytics - Computer Vision,Computer Vision,Udemy,5,58
+C350,Video Analytics - Computer Vision,Computer Vision,Pluralsight,3,58
+C351,Text Processing - Natural Language Processing,Natural Language Processing,edX,2,60
+C352,Text Processing - Natural Language Processing,Natural Language Processing,Udemy,3,21
+C353,Text Processing - Natural Language Processing,Natural Language Processing,Udemy,3,53
+C354,Text Processing - Natural Language Processing,Natural Language Processing,Udemy,5,21
+C355,Text Processing - Natural Language Processing,Natural Language Processing,edX,5,53
+C356,Sentiment Analysis - Natural Language Processing,Natural Language Processing,Udemy,1,57
+C357,Sentiment Analysis - Natural Language Processing,Natural Language Processing,Udemy,2,15
+C358,Sentiment Analysis - Natural Language Processing,Natural Language Processing,Udemy,1,20
+C359,Sentiment Analysis - Natural Language Processing,Natural Language Processing,Pluralsight,2,50
+C360,Sentiment Analysis - Natural Language Processing,Natural Language Processing,Pluralsight,1,40
+C361,Topic Modeling - Natural Language Processing,Natural Language Processing,Coursera,4,19
+C362,Topic Modeling - Natural Language Processing,Natural Language Processing,Udemy,3,40
+C363,Topic Modeling - Natural Language Processing,Natural Language Processing,Coursera,3,57
+C364,Topic Modeling - Natural Language Processing,Natural Language Processing,edX,4,31
+C365,Topic Modeling - Natural Language Processing,Natural Language Processing,Udemy,1,53
+C366,Question Answering - Natural Language Processing,Natural Language Processing,Coursera,5,39
+C367,Question Answering - Natural Language Processing,Natural Language Processing,edX,4,38
+C368,Question Answering - Natural Language Processing,Natural Language Processing,Udemy,4,44
+C369,Question Answering - Natural Language Processing,Natural Language Processing,Pluralsight,1,13
+C370,Question Answering - Natural Language Processing,Natural Language Processing,LinkedIn Learning,2,10
+C371,Chatbot Development - Natural Language Processing,Natural Language Processing,LinkedIn Learning,4,23
+C372,Chatbot Development - Natural Language Processing,Natural Language Processing,Udemy,5,33
+C373,Chatbot Development - Natural Language Processing,Natural Language Processing,edX,4,41
+C374,Chatbot Development - Natural Language Processing,Natural Language Processing,LinkedIn Learning,2,35
+C375,Chatbot Development - Natural Language Processing,Natural Language Processing,Pluralsight,4,31

@@ -5,12 +5,12 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'your-secret-key-here'  # Make sure to replace this with a strong secret key
+SECRET_KEY = 'your-secret-key-here'  # Replace with a strong, unique secret key
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True  # Set to False in production
+DEBUG = True  # Change to False in production
 
-ALLOWED_HOSTS = ['*']  # In production, replace '*' with specific domains
+ALLOWED_HOSTS = ['*']  # Use specific domains in production, e.g., ['example.com']
 
 # Application definition
 INSTALLED_APPS = [
@@ -20,8 +20,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'recommendations'# Your custom app
-    # Add other apps like 'django.contrib.sites' if you're using them
+    'recommendations',  # Your custom app
 ]
 
 MIDDLEWARE = [
@@ -54,11 +53,11 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'skillmatch.wsgi.application'
 
-# Database configuration (SQLite for development)
+# Database configuration
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',  # SQLite database file
+        'ENGINE': 'django.db.backends.sqlite3',  # Using SQLite for development
+        'NAME': BASE_DIR / 'db.sqlite3',  # Database file
     }
 }
 
@@ -90,19 +89,17 @@ USE_L10N = True
 USE_TZ = True
 
 # Static files (CSS, JavaScript, images)
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [BASE_DIR / 'static']  # Include static files in the 'static' folder
 
-# Default auto field for models
+# Media files (if you have file uploads)
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
+# Default primary key field type
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# If using media files (uploads)
-MEDIA_URL = '/media/'  # URL for serving uploaded media files
-MEDIA_ROOT = BASE_DIR / 'media'  # Directory where media files are stored
-
-# Session settings (optional)
-SESSION_ENGINE = 'django.contrib.sessions.backends.db'
-
-# Logging settings (optional for debugging)
+# Logging (optional but useful for debugging)
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -120,4 +117,3 @@ LOGGING = {
         },
     },
 }
-

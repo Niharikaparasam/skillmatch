@@ -20,7 +20,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'recommendations',  # Your custom app
+    'recommendations'# Your custom app
     # Add other apps like 'django.contrib.sites' if you're using them
 ]
 
